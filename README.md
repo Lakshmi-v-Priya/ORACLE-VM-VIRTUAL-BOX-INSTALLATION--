@@ -100,7 +100,8 @@ Choose a strong password and re-enter it for confirmation.
 
 # expected output:
 
-<img width="503" height="267" alt="image" src="https://github.com/user-attachments/assets/c41432c7-9cf1-4512-9ba4-dac088327af6" />
+<img width="332" height="223" alt="image" src="https://github.com/user-attachments/assets/4270527d-132b-4bb2-9655-abd98dff4486" />
+
 
 ## terminal method :
 
