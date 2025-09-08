@@ -1,4 +1,4 @@
-<img width="1299" height="1031" alt="image" src="https://github.com/user-attachments/assets/4648938a-3acc-4ca1-bc8b-f8f0767f9644" /><img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/893347e3-9fa2-4af3-b542-adbe2696a285" /><img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/8f17fc73-c954-4486-ad6a-062a9e794d6b" /># EX---4-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
+# EX---4-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
 # Aim
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system, enabling the creation and management of virtual machines for running multiple operating systems on a single host machine.
 
@@ -32,7 +32,9 @@ Click Install and allow the process to complete.
 Launch VirtualBox from the desktop or start menu.
 The VirtualBox Manager should open, showing options to create and manage virtual machines.
 Output:
+
 <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/66c350ce-a710-4a33-8f97-bcf888da3433" />
+
 Step 3: Create a New Virtual Machine
 1. In VirtualBox, click on the New button to create a new virtual machine.
 2. Name and Type Settings:
@@ -91,11 +93,17 @@ Choose a strong password and re-enter it for confirmation.
 1. Once the machine reboots, you’ll be presented with a login screen.
 2. Log in using the root account and the password you set earlier.
 <img width="1299" height="1031" alt="image" src="https://github.com/user-attachments/assets/ffaa27b1-dbac-48ce-885c-f9c63fb67f28" />
+
 ## .sh method
+
 <img width="582" height="337" alt="image" src="https://github.com/user-attachments/assets/14596938-1c3a-433f-8377-9e18fbdd208e" />
+
 # expected output:
+
 <img width="503" height="267" alt="image" src="https://github.com/user-attachments/assets/c41432c7-9cf1-4512-9ba4-dac088327af6" />
+
 ## terminal method :
+
 <img width="596" height="614" alt="image" src="https://github.com/user-attachments/assets/330b061b-a75a-4bee-aa5b-d3e29c6940d8" />
 
 ## RESULT:
